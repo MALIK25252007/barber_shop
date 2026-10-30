@@ -67,7 +67,7 @@ Built by **[Tarun Malik](https://github.com/MALIK25252007)**, the project is fre
 
 <div align="center">
 
-### 👉 [**malik25252007.github.io/barber_shop**](https://malik25252007.github.io/barber_shop/) 👈
+### 👉 [**https://barbershope-comerse.vercel.app/**](https://barbershope-comerse.vercel.app/) 👈
 
 </div>
 
