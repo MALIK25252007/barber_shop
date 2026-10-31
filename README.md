@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:d4a017&height=230&section=header&text=Barber%20Shop&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Get%20the%20most%20professional%20haircut%20for%20you&descSize=20&descAlignY=60" width="100%" alt="Barber Shop header" />
+<img src="https://capsule-render.vercel.app/api? type=waving&color=0:0f0c29,50:302b63,100:d4a017&height=230&section=header&text=Barber%20Shop&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Get%20the%20most%20professional%20haircut%20for%20you&descSize=20&descAlignY=60" width="100%" alt="Barber Shop header" />
 
 <!-- Typing animation -->
 <a href="https://github.com/MALIK25252007/barber_shop">
